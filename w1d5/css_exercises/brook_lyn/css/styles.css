@@ -1,0 +1,27 @@
+body{
+	font-family: “Times New Roman”, serif;
+
+}
+#date{
+	color: steelblue;
+}
+#mainheader{
+	color: #656565
+}
+#text{
+
+}
+#img1{
+    display: block;
+    margin: auto;
+}
+#pics{
+	border: white;
+	margin: auto;
+	width: 80%;
+}
+#img2{
+    display: inline-block;
+    margin: 1px;
+    border: 5px solid grey; 
+}
