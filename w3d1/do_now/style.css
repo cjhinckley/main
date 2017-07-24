@@ -1,0 +1,32 @@
+body{
+	font-family: helvetica;
+	background-color: navy;
+	color: white;
+}
+#header{
+	background-color: grey;
+    color: white;
+    padding: 15px;
+	border-style: solid;
+	float: middle;
+}
+
+#prof{
+	height: 300px;
+	width: 300px;
+}
+#left{
+	border-style: solid;
+	position: absolute;
+	right: 51%;
+}
+#right{
+	border-style: solid;
+	position: absolute;
+	left: 51%;
+}
+#footer{
+	position: absolute;
+	left: 1000px;
+	top: 1000px;
+}
