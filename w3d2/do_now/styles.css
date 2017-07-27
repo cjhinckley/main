@@ -6,6 +6,7 @@ div#box{
 	width: 300px;
 	border: 1px solid black;
 	background-color: teal;
+<<<<<<< HEAD
 }
 
 button{
@@ -18,4 +19,6 @@ button{
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 50%;
+=======
+>>>>>>> 44b6197e8a1ef1fcf438bf73b1d813a233e73c97
 }

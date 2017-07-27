@@ -1,0 +1,41 @@
+body{
+	background-color: papayawhip;
+	text-align: center;
+	font-family: zapfino;
+}
+li{
+	font-size: 30px;
+	line-height: 150px;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+body#light{
+	background: crimson; /* For browsers that do not support gradients */
+  	
+}
+h1#hh1{
+	font-size: 90px;
+	color: salmon;
+}
+body#dark{
+	background: darkslategrey; /* For browsers that do not support gradients */
+}
+h1#hh2{
+	font-size: 90px;
+	color: mediumslateblue;
+}
+
+#button{
+	font-family: zapfino;
+	border: ;
+    color: black;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: wait;
+    border-radius: 30%;;
+    box-shadow: 5px 5px dimgrey;
+}

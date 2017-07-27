@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 console.log('hello');
 
 let counter = 0;
@@ -12,3 +13,6 @@ const clicky = function(){
 	}
 	para.innerHTML = counter++	
 }
+=======
+console.log('hello');
+>>>>>>> 44b6197e8a1ef1fcf438bf73b1d813a233e73c97
