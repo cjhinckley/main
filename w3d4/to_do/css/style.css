@@ -1,7 +1,10 @@
 /*uncomment to see div layout*/
-/*div {
+div {
 	border: 1px solid firebrick;
-}*/
+}
+body{
+	background: linear-gradient(-90deg, #8e9eab, #eef2f3);
+}
 p, li{
 	margin-top: 10px;
 	font-size: 20px;
