@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 console.log('hi');
 $(document).ready(function(){
 let counter = 1
@@ -58,3 +59,6 @@ const toggleHate = function(){
 
 
 });
+=======
+console.log('hi');
+>>>>>>> b542ff795888f9e0414b5910ae709c45ead4360a

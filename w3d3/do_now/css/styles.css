@@ -11,16 +11,9 @@ ul{
 	margin: 0;
 	padding: 0;
 }
-body#light{
-	background: crimson; /* For browsers that do not support gradients */
-  	
-}
 h1#hh1{
 	font-size: 90px;
 	color: salmon;
-}
-body#dark{
-	background: darkslategrey; /* For browsers that do not support gradients */
 }
 h1#hh2{
 	font-size: 90px;
