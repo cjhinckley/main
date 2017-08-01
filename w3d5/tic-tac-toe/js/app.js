@@ -71,3 +71,9 @@ $('#restart').click(function(){
     });
 
 });
+=======
+console.log('hello');
+
+$(document).ready(function(){
+	
+})

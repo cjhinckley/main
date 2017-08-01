@@ -1,0 +1,186 @@
+body{
+	background-color: lightslategrey;
+	font-family: times new roman;
+}
+
+h1{
+	display: inline-block;
+	float:right;
+}
+
+/* Style the tab */
+div.tab {
+    text-align: right;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+div.tab button {
+    background-color: inherit;
+    float: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+
+
+div#RIP{
+
+}
+
+
+#header {
+    font-family: 'Raleway',sans-serif;
+    font-size: 52px; font-weight: 800; line-height: 72px;
+    text-align: center;
+    border: 4px double black;
+    font-family: 'Trocchi';
+    color: black;
+}
+
+/*div{
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
+#ya {
+    margin-left: 300px;
+}
+div#firstId{
+    background: url('https://www.asphaltgreen.org/images/uploads/posts/David_Rodriguez_300x325.jpg');
+        background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 0px;
+border: 3px double DimGray;
+    height: 250px;
+    width: 250px;
+    font-size: 70px;
+    color: DimGray;
+    position: fixed;
+
+}
+div#secondId{
+    background: url('http://cdnak1.psbin.com/img/mw=150/mh=227/cr=n/d=vjsfs/ttao642z2x5s0ljx.jpg');
+        background-repeat: no-repeat;
+    background-size: cover;
+display: inline-block;
+margin-top: 0px;
+margin-left: 400px;
+border: 3px double DimGray;
+    height: 250px;
+    width: 250px;
+    font-size: 70px;
+    color: DimGray;
+    position: fixed;
+}
+div#thirdId{
+    background: url('https://www.asphaltgreen.org/images/uploads/posts/Ian_Cervone.jpg');
+        background-repeat: no-repeat;
+    background-size: cover;
+display: inline-block;
+margin-left: 100px;
+margin-top: 300px;
+border: 3px double DimGray;
+    height: 250px;
+    width: 250px;
+    font-size: 70px;
+    color: DimGray;
+    position: fixed;
+}
+
+div#fourthId{
+    background: url('https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/000/114/290/3df0d52.jpg');    
+        background-repeat: no-repeat;
+    background-size: cover;
+display: inline-block;
+margin-left: 400px;
+margin-top: 300px;
+border: 3px double DimGray;
+    height: 250px;
+    width: 250px;
+    font-size: 70px;
+    color: DimGray;
+    position: fixed;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: black;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

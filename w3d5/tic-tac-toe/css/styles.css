@@ -1,4 +1,5 @@
 body{
+
 	background: linear-gradient(-90deg, #ffd89b, #19547b);
     font-family: zapfino;
     margin-left: 35%;
@@ -21,4 +22,6 @@ td{
 td:hover{
     background: linear-gradient(-90deg, #ffd89b, #19547b);
 
+}
+	background-color: papayawhip;
 }
